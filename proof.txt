@@ -1,3 +1,2 @@
 I hearby declare that I am affiliated with the following list of addresses for the purposes of SignHash identification:
-_replace_this_with_your_address_
-_replace_this_with_another_your_address_
+0x07de8980de18c9a3f39510c23fb95425fa54da5b
