@@ -1,2 +1,2 @@
-I hearby declare that I am affiliated with the following list of addresses for the purposes of SignHash identification:
+I hereby declare that I am affiliated with the following list of addresses for the purposes of SignHash identification:
 0x15e83e4e0604d707b752ed3942a1337705cd35ab
